@@ -1,0 +1,15 @@
+{
+  "name": "multithreadingapp",
+  "version": "1.0.0",
+  "description": "Trying to perform multi threading in node js using the new experimental API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhana Priya Selvam",
+  "license": "ISC",
+  "dependencies": {
+    "node-worker-threads-pool": "^1.0.7",
+    "worker-farm": "^1.7.0"
+  }
+}
