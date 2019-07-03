@@ -1,0 +1,16 @@
+{
+  "name": "graphdbneopro",
+  "version": "1.0.0",
+  "description": "simple application that uses the Neo4j as backend and perform the CRUD operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhana Priya Selvam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "neo4j": "^2.0.0-RC2",
+    "neo4j-driver": "^1.7.5"
+  }
+}
