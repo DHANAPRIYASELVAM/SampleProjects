@@ -1,0 +1,15 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Sample node app on celebrate validations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DHANA PRIYA SELVAM",
+  "license": "ISC",
+  "dependencies": {
+    "celebrate": "^10.0.1",
+    "express": "^4.17.1"
+  }
+}
